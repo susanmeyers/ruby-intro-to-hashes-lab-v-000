@@ -51,8 +51,6 @@ def monopoly_with_third_tier
 
 
     }
-   #copy and paste the m
-
 
 end
 
